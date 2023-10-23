@@ -2,7 +2,7 @@
 
 <footer id="footer">
 	<div id="inner-footer">
-		Curso de Introducción a PHP en Domestika
+		Todos los derechos reservados.
 	</div>
 </footer>
 </body>
